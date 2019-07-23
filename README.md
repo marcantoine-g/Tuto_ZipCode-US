@@ -1,20 +1,19 @@
 # ZipInfo PWA
 
-> Zipcode city finder PWA built with Vue.js and Ionic 4 using the @ionic/vue package and the @vue/pwa plugin
+> Détails de code postaux américains fait avec Vue.js et Ionic 4
 
-## Project setup
-
+## Installation
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilation et lancement de l'app
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilation et minification pour production
 
 ```
 npm run build
